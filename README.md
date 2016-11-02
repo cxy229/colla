@@ -1,1 +1,2 @@
-# colla
+- 根据两名学者第一次合作时的属性来预测之后的合作次数和合作时长
+- linear regression 和 xgboost 算法
