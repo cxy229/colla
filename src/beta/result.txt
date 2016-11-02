@@ -1,0 +1,38 @@
+合作时长：
+属性是学术年龄 和 属性是除了学术年龄所有的
+colla_time: mean_absolute_error = 2.006   # x是scientific_age1 scientific_age2, y是合作时长
+colla_time: mean_absolute_error = 1.913   # x是文章数 共同邻居 最短路径 度, y是合作时长
+文章数和除了文章数
+colla_time: mean_absolute_error = 2.055
+colla_time: mean_absolute_error = 1.901
+共同邻居和除了共同邻居
+colla_time: mean_absolute_error = 2.033
+colla_time: mean_absolute_error = 1.921
+最短路径和除了最短路径
+colla_time: mean_absolute_error = 1.942
+colla_time: mean_absolute_error = 1.977
+度和除了度
+colla_time: mean_absolute_error = 2.057
+colla_time: mean_absolute_error = 1.901
+所有的属性
+colla_time: mean_absolute_error = 1.900
+
+
+合作次数：
+学术年龄和除了学术年龄
+coarticle_num: mean_absolute_error = 2.377
+coarticle_num: mean_absolute_error = 2.291
+文章数和除了文章数
+coarticle_num: mean_absolute_error = 2.419
+coarticle_num: mean_absolute_error = 2.278
+共同邻居和除了共同邻居
+coarticle_num: mean_absolute_error = 2.412
+coarticle_num: mean_absolute_error = 2.285
+最短路径和除了最短路径
+coarticle_num: mean_absolute_error = 2.308
+coarticle_num: mean_absolute_error = 2.363
+度和除了度
+coarticle_num: mean_absolute_error = 2.423
+coarticle_num: mean_absolute_error = 2.278
+所有的属性
+coarticle_num: mean_absolute_error = 2.276
